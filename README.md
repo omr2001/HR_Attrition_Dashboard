@@ -35,4 +35,4 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 </p>
-Feel fr<ee to customize this description according to your preferences!
+<p>Feel free to customize this description according to your preferences!</p>
